@@ -656,6 +656,17 @@ entries:
   n9-api:
   - apiVersion: v2
     appVersion: latest
+    created: "2023-06-06T15:11:39.910151205Z"
+    description: Neo9 standard API chart
+    digest: a23e7dd82d4949762854e3d6d2e2aa26d657e75c9b4a0655606c39d0096338b9
+    icon: https://neo9.fr/assets/images/neo9-logo-baseline.svg
+    name: n9-api
+    type: application
+    urls:
+    - https://github.com/elouazzany/helm-charts/releases/download/n9-api-1.3.12/n9-api-1.3.12.tgz
+    version: 1.3.12
+  - apiVersion: v2
+    appVersion: latest
     created: "2023-05-02T14:15:17.569761382Z"
     description: Neo9 standard API chart
     digest: b0ad8e025f849c26ef4be376d65d26d59b3271ac453e35701bef1e1f5aef106d
@@ -836,4 +847,4 @@ entries:
     urls:
     - https://github.com/neo9/helm-charts/releases/download/tekton-logging-0.1.1/tekton-logging-0.1.1.tgz
     version: 0.1.1
-generated: "2023-06-02T09:29:36.344639307Z"
+generated: "2023-06-06T15:11:39.910447118Z"
